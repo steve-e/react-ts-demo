@@ -1,3 +1,5 @@
+Quick typescript react demo app. Created from [React Typescript Tutorial - Why and How (get started now!)](https://www.youtube.com/watch?v=0_C2X1yRRac)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
