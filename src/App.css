@@ -2,10 +2,7 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -24,6 +21,16 @@
   color: white;
 }
 
+.my-button{
+  border:1px solid blue;
+  background-color: white;
+}
+
+img..pokemon-image{
+  margin-top:20px;
+  margin-bottom: 10px;
+
+}
 .App-link {
   color: #61dafb;
 }
